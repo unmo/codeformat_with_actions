@@ -27,7 +27,7 @@ jobs:
       - name: Install black
         run: pip install black
       - name: run code format
-        run: find . -path  ./source/envs -prune -o -type f -name '*.py' -print | xargs echo
+        run: find . -path  ./source/envs -prune -o -type f -name '*.py' -print | xargs black
       - name: git settings
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
