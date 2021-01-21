@@ -1,10 +1,10 @@
 # -*-coding: utf-8 -*-
 
-a=100000000000
-b=(
+a = 100000000000
+b = (
     "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
-    +"ssssssssssssssssssssssssssssssssssssssssssss"
-    +"testtest"
+    + "ssssssssssssssssssssssssssssssssssssssssssss"
+    + "testtest"
 )
 
 
