@@ -8,8 +8,6 @@ b = (
 )
 
 
-def b_test_format(
-    aaaaaaaaaaaaa, bbbbbbbbbbbbbbbb, cccccccccccccccc, dddddddddddddddddd, eeeeeeeeeeeeeeeeee
-):
+def b_test_format(aaaaaaaaaaaaa, bbbbbbbbbbbbbbbb, cccccccccccccccc, dddddddddddddddddd, eeeeeeeeeeeeeeeeee):
 
     print("hoge")
