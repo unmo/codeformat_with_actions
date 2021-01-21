@@ -8,4 +8,5 @@ def b_test_format(aaaaaaaaaaaaa,bbbbbbbbbbbbbbbb,cccccccccccccccc,dddddddddddddd
     
     
     
+    
     print("hoge")
