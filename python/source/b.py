@@ -5,4 +5,7 @@ b = ("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"+"ssssssssssssssssssssssssssssss
 
 
 def b_test_format(aaaaaaaaaaaaa,bbbbbbbbbbbbbbbb,cccccccccccccccc,dddddddddddddddddd,eeeeeeeeeeeeeeeeee):
+    
+    
+    
     print("hoge")
