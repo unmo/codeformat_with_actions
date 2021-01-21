@@ -1,9 +1,9 @@
 # -*-coding: utf-8 -*-
 
-a = 100000000000
+a=100000000000
 
 
-a = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+a="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
 
 
 def a_test_format(
